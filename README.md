@@ -2,7 +2,7 @@
 
 > *"I will watch your terminal output. Very nice."*
 
-A cross-platform terminal error notification plugin that plays **Borat Sagdiyev voice clips** whenever your terminal hits an error. Works as a standalone shell wrapper, a VS Code / Cursor extension, and includes a live TUI monitoring dashboard.
+## A cross-platform terminal error notification plugin that plays **Borat Sagdiyev voice clips** whenever your terminal hits an error. Works as a standalone shell wrapper, a VS Code / Cursor extension, and includes a live TUI monitoring dashboard.**
 
 ---
 
